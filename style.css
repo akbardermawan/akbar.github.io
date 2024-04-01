@@ -1,0 +1,9 @@
+.jubotron img{
+width: 200px;
+border: 3px solid rgb(4, 70, 70);
+margin-top: 10px;
+border-radius: 50%;
+}
+section p {
+    margin: auto;
+}
